@@ -1,0 +1,28 @@
+{
+  "name": "maf-icons",
+  "version": "1.0.0",
+  "description": "Icon packs for next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arieffakhrudin/maf-icons.git"
+  },
+  "keywords": [
+    "icons"
+  ],
+  "author": "M. Arief Fakhrudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arieffakhrudin/maf-icons/issues"
+  },
+  "homepage": "https://github.com/arieffakhrudin/maf-icons#readme",
+  "dependencies": {
+    "api-wilayah-indonesia": "^1.0.7",
+    "maf-blockchain": "^1.0.3",
+    "maf-converter": "^1.0.7",
+    "maf-string": "^1.0.1"
+  }
+}

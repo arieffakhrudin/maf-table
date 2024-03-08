@@ -1,0 +1,30 @@
+{
+  "name": "maf-table",
+  "version": "1.0.0",
+  "description": "Custom next table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arieffakhrudin/maf-table.git"
+  },
+  "keywords": [
+    "table",
+    "next"
+  ],
+  "author": "M. Arief Fakhrudin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arieffakhrudin/maf-table/issues"
+  },
+  "homepage": "https://github.com/arieffakhrudin/maf-table#readme",
+  "dependencies": {
+    "api-wilayah-indonesia": "^1.0.8",
+    "maf-blockchain": "^1.0.4",
+    "maf-converter": "^1.0.8",
+    "maf-icons": "^1.0.0",
+    "maf-string": "^1.0.2"
+  }
+}
