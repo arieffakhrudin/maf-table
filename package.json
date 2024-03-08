@@ -1,6 +1,6 @@
 {
   "name": "maf-table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom next table",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "maf-convert": "^1.0.0",
     "maf-converter": "^1.0.8",
     "maf-icons": "^1.0.0",
+    "maf-image": "^1.0.0",
     "maf-string": "^1.0.2",
     "maf-zone": "^1.0.0"
   }

@@ -1,6 +1,6 @@
 {
     "name": "maf-convert",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Package for convert everything",
     "main": "index.js",
     "author": "Arief Fakhrudin",
@@ -22,6 +22,7 @@
         "maf-blockchain": "^1.0.0",
         "maf-icons": "^1.0.0",
         "maf-string": "^1.0.0",
-        "maf-table": "^1.0.0"
+        "maf-table": "^1.0.0",
+        "maf-zone": "^1.0.0"
     }
 }
